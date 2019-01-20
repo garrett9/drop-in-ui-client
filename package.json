@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "drop-in-ui-client"
+    "url": "https://github.com/garrett9/drop-in-ui-client"
   },
   "author": "garrett9",
   "license": "ISC",
